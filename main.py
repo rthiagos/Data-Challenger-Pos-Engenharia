@@ -1,5 +1,5 @@
 def main():
-    print("Hello from data-challenger-pos-engenharia!")
+    print("Bem vindo ao projeto de engenharia de dados!")
 
 
 if __name__ == "__main__":
